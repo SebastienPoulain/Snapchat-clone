@@ -1,0 +1,19 @@
+.chatView {
+  position: relative;
+}
+
+.chatView__timer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 10px;
+}
+
+.chatView__back {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 10px;
+  cursor: pointer;
+  color: white;
+}
